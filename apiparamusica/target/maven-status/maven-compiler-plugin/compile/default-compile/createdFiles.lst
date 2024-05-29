@@ -1,0 +1,10 @@
+br\org\serratec\apiparamusica\controller\AlbumController.class
+br\org\serratec\apiparamusica\ApiparamusicaApplication.class
+br\org\serratec\apiparamusica\model\Artista.class
+br\org\serratec\apiparamusica\model\Album.class
+br\org\serratec\apiparamusica\dto\MusicaDto.class
+br\org\serratec\apiparamusica\model\Musica.class
+br\org\serratec\apiparamusica\dto\ArtistaDto.class
+br\org\serratec\apiparamusica\controller\MusicaController.class
+br\org\serratec\apiparamusica\controller\ArtistaController.class
+br\org\serratec\apiparamusica\dto\AlbumDto.class
